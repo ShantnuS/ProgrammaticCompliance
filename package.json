@@ -11,7 +11,7 @@
     "@emotion/styled": "^11.11.0",
     "@fluentui/react": "^8.111.2",
     "@fluentui/theme": "^2.6.35",
-    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/jest-dom": "^6.6.2",
     "@testing-library/react": "12.1.5",
     "@testing-library/user-event": "^13.5.0",
     "react": "^17.0.2",
